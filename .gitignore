@@ -10,3 +10,6 @@ src/**.js
 coverage
 package-lock.json
 .DS_Store
+assets/mainnet/HY9Ga6Ea3khuqYfysXi8usNWDau58frHWkTWXxZa9WCz/logo.png.jpg
+*.jpg
+*.jpg
